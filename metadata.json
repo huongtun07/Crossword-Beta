@@ -1,0 +1,6 @@
+{
+  "name": "Giải Mã Ô Chữ Tiếng Anh - Crossword Master",
+  "description": "Trò chơi Giải Mã Ô Chữ Tiếng Anh tương tác dành cho học sinh THCS (Lớp 6-9) với giao diện Modern Light, âm thanh sinh động và đếm ngược kịch tính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
