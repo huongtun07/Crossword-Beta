@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    //base: '/Crossword-Beta/'
+    //base: '/Crossword-Beta/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
